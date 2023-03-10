@@ -1,5 +1,17 @@
 # Sales_project_tableau
-XYZ is a hardware manufacture company of electronics and supplies its product to different store in all over India. This project will answer the business questions that a director wants to know about its business to take data driven decisions.
+It is a dummy hardware manufacture company of electronics which supplies its product to different store in all over India. This project will answer the business questions that a director wants to know about its business to take data driven decisions.
+
+The datasource is mysql where we restore the dump and analyzed the data by running some queries. The currency used is INR but we found that in 2 records USD currency was used which was converted into INR in Tableau by conversion. 
+
+displaying the first 5 records of transaction table.
+![image](https://user-images.githubusercontent.com/123319398/224393490-c4074a18-2433-4bae-80b9-f6d047da4396.png)
+
+
+![image](https://user-images.githubusercontent.com/123319398/224393783-22fa08cc-4316-46f0-9b6c-3da32d0f9867.png)
+
+
+![image](https://user-images.githubusercontent.com/123319398/224393895-907b52bd-f782-4f1f-b6d3-98ee77830d84.png)
+
 
 Data modeling : transactions is a fact table which will be the main table for our visualization and the dimension tables are customers, date, markets and products.
 ![image](https://user-images.githubusercontent.com/123319398/224361667-baf2579b-21dc-4584-8e77-957689b1d241.png)
