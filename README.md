@@ -3,10 +3,10 @@ It is a dummy hardware manufacture company of electronics which supplies its pro
 
 The datasource is mysql where we restore the dump and analyzed the data by running some queries. The currency used is INR but we found that in 2 records USD currency was used which was converted into INR in Tableau by conversion. 
 
-displaying the first 5 records of transaction table.
+Displaying the first 5 records of transaction table.
 ![image](https://user-images.githubusercontent.com/123319398/224393490-c4074a18-2433-4bae-80b9-f6d047da4396.png)
 
-
+Showing common records of transaction and date table using inner join.
 ![image](https://user-images.githubusercontent.com/123319398/224393783-22fa08cc-4316-46f0-9b6c-3da32d0f9867.png)
 
 
