@@ -30,6 +30,13 @@
 ![image](https://user-images.githubusercontent.com/123319398/224362662-8593a4ae-025d-49f6-9f95-c2d75cd2a93c.png)
 
 
-***Selecting year 2019
+***Revenue analysis dashboard
 
-![image](https://user-images.githubusercontent.com/123319398/224362958-464c8dde-ee5d-48be-85c3-31b57182487a.png)
+![image](https://user-images.githubusercontent.com/123319398/224400909-83e2c223-3286-4919-a5be-e08d602b417a.png)
+
+***Creating a story of Sales Performance
+
+![image](https://user-images.githubusercontent.com/123319398/224401009-5762f662-33ea-48b3-9fa1-84af02809d37.png)
+
+
+
