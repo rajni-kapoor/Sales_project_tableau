@@ -1,5 +1,5 @@
 # Sales_project_tableau
-**It is a dummy hardware manufacture company of electronics which supplies its product to different store in all over India. This project will answer the business questions that a director wants to know about its business to take data driven decisions.**
+**It is AtliQ hardware manufacture company's data which supplies its product to different store in all over India. This project will answer the business questions that a director wants to know about its business to take data driven decisions.**
 
 **The datasource is mysql where we restore the dump and analyzed the data by running some queries. The currency used is INR but we found that in 2 records USD currency was used which was converted into INR in Tableau by conversion**. 
 
